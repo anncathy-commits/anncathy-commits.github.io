@@ -31,14 +31,14 @@
     <div class="section">
         <h2>About Me</h2>
         <p>I'm a student currently learning Programming.
-           I'm interested in Python,CSS and Web development.</p>
+           I'm interested in HTML,CSS and Javascript.</p>
     </div>
 
     <div class="section">
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>Wb foundations</li>
+            <li>Web foundations</li>
             <li>Javascript</li>
             <li>Frontend and Backend</li>
         </ul>
@@ -47,7 +47,7 @@
     <div class="section">
         <h2>Links</h2>
         <ul>
-            <li><a href="https://github.com/your-username">README.md</a></li>
+            <li><a href="https://github.com/anncathy-commits">README.md</a></li>
         </ul>
     </div>
 </body>
